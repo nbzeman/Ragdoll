@@ -1,0 +1,1048 @@
+fileFormatVersion: 2
+guid: 0a9ef47fd1b9d4733bc1c7c551ecf504
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: group1
+    100002: group2
+    100004: group3
+    100006: group4
+    100008: group5
+    100010: //RootNode
+    100012: Kofi_Skel_head
+    100014: Kofi_Skel_headend
+    100016: Kofi_Skel_hips
+    100018: Kofi_Skel_left_ankle
+    100020: Kofi_Skel_left_arm
+    100022: Kofi_Skel_left_elbow
+    100024: Kofi_Skel_left_knee
+    100026: Kofi_Skel_left_shoulder
+    100028: Kofi_Skel_left_upperleg
+    100030: Kofi_Skel_left_wrist
+    100032: Kofi_Skel_left_wrist_end
+    100034: Kofi_Skel_neck1
+    100036: Kofi_Skel_right_ankle
+    100038: Kofi_Skel_right_arm
+    100040: Kofi_Skel_right_elbow
+    100042: Kofi_Skel_right_knee
+    100044: Kofi_Skel_right_shoulder
+    100046: Kofi_Skel_right_upperleg
+    100048: Kofi_Skel_right_wrist
+    100050: Kofi_Skel_right_wrist_end
+    100052: Kofi_Skel_spine1
+    100054: Kofi_Skel_spine2
+    100056: KofiGeo
+    100058: l_hand_gr
+    100060: l_knee_gr
+    100062: pCube1
+    100064: pCylinder1
+    100066: pCylinder2
+    100068: pCylinder3
+    100070: pCylinder3 1
+    100072: pCylinder4
+    100074: pCylinder4 1
+    100076: pCylinder5
+    100078: pCylinder5 1
+    100080: pCylinder6
+    100082: pCylinder6 1
+    100084: polySurface100
+    100086: polySurface105
+    100088: polySurface106
+    100090: polySurface110
+    100092: polySurface121
+    100094: polySurface13
+    100096: polySurface130
+    100098: polySurface132
+    100100: polySurface133
+    100102: polySurface134
+    100104: polySurface135
+    100106: polySurface136
+    100108: polySurface137
+    100110: polySurface138
+    100112: polySurface139
+    100114: polySurface140
+    100116: polySurface141
+    100118: polySurface142
+    100120: polySurface143
+    100122: polySurface144
+    100124: polySurface145
+    100126: polySurface147
+    100128: polySurface148
+    100130: polySurface149
+    100132: polySurface150
+    100134: polySurface151
+    100136: polySurface152
+    100138: polySurface153
+    100140: polySurface154
+    100142: polySurface155
+    100144: polySurface156
+    100146: polySurface157
+    100148: polySurface158
+    100150: polySurface47
+    100152: polySurface99
+    100154: pPlane2
+    100156: pPlane3
+    100158: pSphere1
+    100160: pSphere1 1
+    100162: pSphere2
+    100164: pSphere2 1
+    100166: r_hand_gr
+    100168: r_knee_gr
+    100170: root_gr
+    100172: rootPiece
+    100174: Kofi_Skel_left_toe
+    100176: Kofi_Skel_right_toe
+    100178: group6
+    400000: group1
+    400002: group2
+    400004: group3
+    400006: group4
+    400008: group5
+    400010: //RootNode
+    400012: Kofi_Skel_head
+    400014: Kofi_Skel_headend
+    400016: Kofi_Skel_hips
+    400018: Kofi_Skel_left_ankle
+    400020: Kofi_Skel_left_arm
+    400022: Kofi_Skel_left_elbow
+    400024: Kofi_Skel_left_knee
+    400026: Kofi_Skel_left_shoulder
+    400028: Kofi_Skel_left_upperleg
+    400030: Kofi_Skel_left_wrist
+    400032: Kofi_Skel_left_wrist_end
+    400034: Kofi_Skel_neck1
+    400036: Kofi_Skel_right_ankle
+    400038: Kofi_Skel_right_arm
+    400040: Kofi_Skel_right_elbow
+    400042: Kofi_Skel_right_knee
+    400044: Kofi_Skel_right_shoulder
+    400046: Kofi_Skel_right_upperleg
+    400048: Kofi_Skel_right_wrist
+    400050: Kofi_Skel_right_wrist_end
+    400052: Kofi_Skel_spine1
+    400054: Kofi_Skel_spine2
+    400056: KofiGeo
+    400058: l_hand_gr
+    400060: l_knee_gr
+    400062: pCube1
+    400064: pCylinder1
+    400066: pCylinder2
+    400068: pCylinder3
+    400070: pCylinder3 1
+    400072: pCylinder4
+    400074: pCylinder4 1
+    400076: pCylinder5
+    400078: pCylinder5 1
+    400080: pCylinder6
+    400082: pCylinder6 1
+    400084: polySurface100
+    400086: polySurface105
+    400088: polySurface106
+    400090: polySurface110
+    400092: polySurface121
+    400094: polySurface13
+    400096: polySurface130
+    400098: polySurface132
+    400100: polySurface133
+    400102: polySurface134
+    400104: polySurface135
+    400106: polySurface136
+    400108: polySurface137
+    400110: polySurface138
+    400112: polySurface139
+    400114: polySurface140
+    400116: polySurface141
+    400118: polySurface142
+    400120: polySurface143
+    400122: polySurface144
+    400124: polySurface145
+    400126: polySurface147
+    400128: polySurface148
+    400130: polySurface149
+    400132: polySurface150
+    400134: polySurface151
+    400136: polySurface152
+    400138: polySurface153
+    400140: polySurface154
+    400142: polySurface155
+    400144: polySurface156
+    400146: polySurface157
+    400148: polySurface158
+    400150: polySurface47
+    400152: polySurface99
+    400154: pPlane2
+    400156: pPlane3
+    400158: pSphere1
+    400160: pSphere1 1
+    400162: pSphere2
+    400164: pSphere2 1
+    400166: r_hand_gr
+    400168: r_knee_gr
+    400170: root_gr
+    400172: rootPiece
+    400174: Kofi_Skel_left_toe
+    400176: Kofi_Skel_right_toe
+    400178: group6
+    2300000: pPlane2
+    2300002: pPlane3
+    2300004: pCylinder3 1
+    2300006: pCylinder4 1
+    2300008: pCylinder5 1
+    2300010: pSphere1 1
+    2300012: pCube1
+    2300014: pCylinder1
+    2300016: pCylinder2
+    2300018: pCylinder3
+    2300020: pCylinder4
+    2300022: pCylinder5
+    2300024: pCylinder6
+    2300026: pCylinder6 1
+    2300028: polySurface100
+    2300030: polySurface105
+    2300032: polySurface106
+    2300034: polySurface110
+    2300036: polySurface121
+    2300038: polySurface13
+    2300040: polySurface130
+    2300042: polySurface132
+    2300044: polySurface133
+    2300046: polySurface134
+    2300048: polySurface135
+    2300050: polySurface136
+    2300052: polySurface137
+    2300054: polySurface138
+    2300056: polySurface139
+    2300058: polySurface140
+    2300060: polySurface141
+    2300062: polySurface142
+    2300064: polySurface143
+    2300066: polySurface144
+    2300068: polySurface145
+    2300070: polySurface147
+    2300072: polySurface148
+    2300074: polySurface149
+    2300076: polySurface150
+    2300078: polySurface151
+    2300080: polySurface152
+    2300082: polySurface153
+    2300084: polySurface154
+    2300086: polySurface155
+    2300088: polySurface156
+    2300090: polySurface157
+    2300092: polySurface158
+    2300094: polySurface47
+    2300096: polySurface99
+    2300098: pSphere1
+    2300100: pSphere2
+    2300102: pSphere2 1
+    2300104: rootPiece
+    3300000: pPlane2
+    3300002: pPlane3
+    3300004: pCylinder3 1
+    3300006: pCylinder4 1
+    3300008: pCylinder5 1
+    3300010: pSphere1 1
+    3300012: pCube1
+    3300014: pCylinder1
+    3300016: pCylinder2
+    3300018: pCylinder3
+    3300020: pCylinder4
+    3300022: pCylinder5
+    3300024: pCylinder6
+    3300026: pCylinder6 1
+    3300028: polySurface100
+    3300030: polySurface105
+    3300032: polySurface106
+    3300034: polySurface110
+    3300036: polySurface121
+    3300038: polySurface13
+    3300040: polySurface130
+    3300042: polySurface132
+    3300044: polySurface133
+    3300046: polySurface134
+    3300048: polySurface135
+    3300050: polySurface136
+    3300052: polySurface137
+    3300054: polySurface138
+    3300056: polySurface139
+    3300058: polySurface140
+    3300060: polySurface141
+    3300062: polySurface142
+    3300064: polySurface143
+    3300066: polySurface144
+    3300068: polySurface145
+    3300070: polySurface147
+    3300072: polySurface148
+    3300074: polySurface149
+    3300076: polySurface150
+    3300078: polySurface151
+    3300080: polySurface152
+    3300082: polySurface153
+    3300084: polySurface154
+    3300086: polySurface155
+    3300088: polySurface156
+    3300090: polySurface157
+    3300092: polySurface158
+    3300094: polySurface47
+    3300096: polySurface99
+    3300098: pSphere1
+    3300100: pSphere2
+    3300102: pSphere2 1
+    3300104: rootPiece
+    4300000: pPlane2
+    4300002: pPlane3
+    4300004: pCylinder4
+    4300006: pCylinder3
+    4300008: pSphere1
+    4300010: pCylinder5
+    4300012: pCylinder4
+    4300014: pCylinder3
+    4300016: pSphere1
+    4300018: pCylinder5
+    4300020: pSphere2
+    4300022: pCylinder6
+    4300024: pSphere2
+    4300026: pCylinder6
+    4300028: pCylinder1
+    4300030: pCylinder2
+    4300032: pCube1
+    4300034: rootPiece
+    4300036: polySurface138
+    4300038: polySurface137
+    4300040: polySurface136
+    4300042: polySurface135
+    4300044: polySurface134
+    4300046: polySurface133
+    4300048: polySurface13
+    4300050: polySurface47
+    4300052: polySurface132
+    4300054: polySurface149
+    4300056: polySurface156
+    4300058: polySurface105
+    4300060: polySurface106
+    4300062: polySurface150
+    4300064: polySurface151
+    4300066: polySurface152
+    4300068: polySurface153
+    4300070: polySurface154
+    4300072: polySurface155
+    4300074: polySurface157
+    4300076: polySurface158
+    4300078: polySurface139
+    4300080: polySurface140
+    4300082: polySurface141
+    4300084: polySurface147
+    4300086: polySurface130
+    4300088: polySurface99
+    4300090: polySurface100
+    4300092: polySurface142
+    4300094: polySurface143
+    4300096: polySurface144
+    4300098: polySurface145
+    4300100: polySurface148
+    4300102: polySurface121
+    4300104: polySurface110
+    9500000: //RootNode
+    13700000: pCube1
+    13700002: pCylinder1
+    13700004: pCylinder2
+    13700006: pCylinder3
+    13700008: pCylinder3 1
+    13700010: pCylinder4
+    13700012: pCylinder4 1
+    13700014: pCylinder5
+    13700016: pCylinder5 1
+    13700018: pCylinder6
+    13700020: pCylinder6 1
+    13700022: polySurface100
+    13700024: polySurface105
+    13700026: polySurface106
+    13700028: polySurface110
+    13700030: polySurface121
+    13700032: polySurface13
+    13700034: polySurface130
+    13700036: polySurface132
+    13700038: polySurface133
+    13700040: polySurface134
+    13700042: polySurface135
+    13700044: polySurface136
+    13700046: polySurface137
+    13700048: polySurface138
+    13700050: polySurface139
+    13700052: polySurface140
+    13700054: polySurface141
+    13700056: polySurface142
+    13700058: polySurface143
+    13700060: polySurface144
+    13700062: polySurface145
+    13700064: polySurface147
+    13700066: polySurface148
+    13700068: polySurface149
+    13700070: polySurface150
+    13700072: polySurface151
+    13700074: polySurface152
+    13700076: polySurface153
+    13700078: polySurface154
+    13700080: polySurface155
+    13700082: polySurface156
+    13700084: polySurface157
+    13700086: polySurface158
+    13700088: polySurface47
+    13700090: polySurface99
+    13700092: pSphere1
+    13700094: pSphere1 1
+    13700096: pSphere2
+    13700098: pSphere2 1
+    13700100: rootPiece
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .100000001
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: Kofi_Skel_hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Kofi_Skel_left_upperleg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Kofi_Skel_right_upperleg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Kofi_Skel_left_knee
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Kofi_Skel_right_knee
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Kofi_Skel_left_ankle
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Kofi_Skel_right_ankle
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Kofi_Skel_spine1
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Kofi_Skel_neck1
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Kofi_Skel_head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Kofi_Skel_left_arm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Kofi_Skel_right_arm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Kofi_Skel_left_elbow
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Kofi_Skel_right_elbow
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Kofi_Skel_left_wrist
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Kofi_Skel_right_wrist
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Kofi_Skel_left_shoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Kofi_Skel_right_shoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Kofi_Skel_left_toe
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Kofi_Skel_right_toe
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Kofi_Skel_spine2
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Kofi_RT_bound(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: KofiGeo
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pCylinder3 1
+      position: {x: -3.47367835, y: 3.94709015, z: -.058675319}
+      rotation: {x: 0, y: -0, z: -.707106829, w: .707106829}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pCylinder4 1
+      position: {x: -2.91180634, y: 3.94709015, z: -.058675319}
+      rotation: {x: 0, y: -0, z: -.707106829, w: .707106829}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pCylinder5 1
+      position: {x: -1.99995065, y: 3.71731424, z: -.0445019789}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pSphere1 1
+      position: {x: -1.1999501, y: 3.94704032, z: -.0600002073}
+      rotation: {x: .5, y: -.5, z: .5, w: .5}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: group3
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pCylinder6
+      position: {x: -.568355024, y: 1.24937165, z: -.0236494858}
+      rotation: {x: 0, y: 0, z: -.766844511, w: .641832948}
+      scale: {x: 1, y: -4.37458277, z: 1}
+      transformModified: 1
+    - name: pSphere2
+      position: {x: -.424950033, y: 1.98703504, z: .0500000119}
+      rotation: {x: 0, y: -0, z: -.0871557444, w: .99619472}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: group4
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pCylinder6 1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pSphere2 1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: group5
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pCube1
+      position: {x: -0, y: 3.47560573, z: .00321227172}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pCylinder1
+      position: {x: -0, y: 4.98370695, z: .0477337316}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pCylinder2
+      position: {x: -0, y: 4.51440001, z: -.00250887568}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: root_gr
+      position: {x: -0, y: -8.85747511e-08, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: polySurface13
+      position: {x: 10.4125004, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: polySurface47
+      position: {x: 10.4125004, y: 8.85747511e-08, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: polySurface133
+      position: {x: 10.4125004, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: polySurface134
+      position: {x: 10.4125004, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: polySurface135
+      position: {x: 10.4125004, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: polySurface136
+      position: {x: 10.4125004, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: polySurface137
+      position: {x: 10.4125004, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: polySurface138
+      position: {x: 10.4125004, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: rootPiece
+      position: {x: 10.4125004, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: l_hand_gr
+      position: {x: -5.14699078, y: 2.7470901, z: -1.93620309e-07}
+      rotation: {x: -3.3229594e-07, y: 3.32295883e-07, z: -.707106829, w: .707106829}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: polySurface121
+      position: {x: 10.4125004, y: -7.10542746e-16, z: -1.11022304e-17}
+      rotation: {x: -4.90580589e-07, y: -7.87607895e-17, z: -1.9730898e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: l_knee_gr
+      position: {x: .000508657133, y: .00321432366, z: -.118569486}
+      rotation: {x: .0510808118, y: -.00808168948, z: 1.15874668e-15, w: .998661816}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: polySurface105
+      position: {x: 10.4125004, y: -1.77635687e-16, z: 0}
+      rotation: {x: -4.47974973e-16, y: 9.31870973e-17, z: 4.17454896e-32, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: polySurface106
+      position: {x: 10.4125004, y: -1.77635687e-16, z: 0}
+      rotation: {x: -4.47974973e-16, y: 9.31870973e-17, z: 4.17454896e-32, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: polySurface132
+      position: {x: 10.4125004, y: -1.77635687e-16, z: 0}
+      rotation: {x: -4.47974973e-16, y: 9.31870973e-17, z: 4.17454896e-32, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: polySurface149
+      position: {x: 10.4125004, y: -1.77635687e-16, z: 0}
+      rotation: {x: -4.47974973e-16, y: 9.31870973e-17, z: 4.17454896e-32, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: polySurface150
+      position: {x: 10.4125004, y: -1.77635687e-16, z: 0}
+      rotation: {x: -4.47974973e-16, y: 9.31870973e-17, z: 4.17454896e-32, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: polySurface151
+      position: {x: 10.4125004, y: -1.77635687e-16, z: 0}
+      rotation: {x: -4.47974973e-16, y: 9.31870973e-17, z: 4.17454896e-32, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: polySurface152
+      position: {x: 10.4125004, y: -1.77635687e-16, z: 0}
+      rotation: {x: -4.47974973e-16, y: 9.31870973e-17, z: 4.17454896e-32, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: polySurface153
+      position: {x: 10.4125004, y: -1.77635687e-16, z: 0}
+      rotation: {x: -4.47974973e-16, y: 9.31870973e-17, z: 4.17454896e-32, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: polySurface154
+      position: {x: 10.4125004, y: -1.77635687e-16, z: 0}
+      rotation: {x: -4.47974973e-16, y: 9.31870973e-17, z: 4.17454896e-32, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: polySurface155
+      position: {x: 10.4125004, y: -1.77635687e-16, z: 0}
+      rotation: {x: -4.47974973e-16, y: 9.31870973e-17, z: 4.17454896e-32, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: polySurface156
+      position: {x: 10.4125004, y: -1.77635687e-16, z: 0}
+      rotation: {x: -4.47974973e-16, y: 9.31870973e-17, z: 4.17454896e-32, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: polySurface157
+      position: {x: 10.4125004, y: -1.77635687e-16, z: 0}
+      rotation: {x: -4.47974973e-16, y: 9.31870973e-17, z: 4.17454896e-32, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: polySurface158
+      position: {x: 10.4125004, y: -1.77635687e-16, z: 0}
+      rotation: {x: -4.47974973e-16, y: 9.31870973e-17, z: 4.17454896e-32, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pCylinder3
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pCylinder4
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pCylinder5
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pSphere1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: r_hand_gr
+      position: {x: 5.14698982, y: 2.74709034, z: -3.51410017e-06}
+      rotation: {x: 3.49256112e-07, y: 3.49256112e-07, z: .707106829, w: .707106829}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: polySurface110
+      position: {x: 10.4125004, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: r_knee_gr
+      position: {x: -.000508648518, y: .00321426545, z: -.118570291}
+      rotation: {x: .0510811508, y: .00808174256, z: 2.91389789e-16, w: .998661816}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: polySurface99
+      position: {x: 10.4125004, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: polySurface100
+      position: {x: 10.4125004, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: polySurface130
+      position: {x: 10.4125004, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: polySurface139
+      position: {x: 10.4125004, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: polySurface140
+      position: {x: 10.4125004, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: polySurface141
+      position: {x: 10.4125004, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: polySurface142
+      position: {x: 10.4125004, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: polySurface143
+      position: {x: 10.4125004, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: polySurface144
+      position: {x: 10.4125004, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: polySurface145
+      position: {x: 10.4125004, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: polySurface147
+      position: {x: 10.4125004, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: polySurface148
+      position: {x: 10.4125004, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Kofi_Skel_hips
+      position: {x: 0, y: 2.44824505, z: 0}
+      rotation: {x: 0, y: -0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Kofi_Skel_right_upperleg
+      position: {x: .424949974, y: -.461215079, z: .0500000007}
+      rotation: {x: .766044438, y: -.642787635, z: 3.9359391e-17, w: -4.69066928e-17}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Kofi_Skel_right_knee
+      position: {x: .754157484, y: -9.36973549e-07, z: 0}
+      rotation: {x: 7.41335882e-09, y: -.099833414, z: 7.43816897e-10, w: .995004177}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Kofi_Skel_right_ankle
+      position: {x: 1.0519923, y: 1.83967174e-07, z: -5.9880756e-07}
+      rotation: {x: -.0613015927, y: .577877879, z: .0435917862, w: .812649369}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Kofi_Skel_right_toe
+      position: {x: .556843936, y: -6.92667896e-08, z: 3.74145856e-07}
+      rotation: {x: .0613015927, y: -.577877879, z: -.0435917862, w: .812649369}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Kofi_Skel_left_upperleg
+      position: {x: -.424950033, y: -.461210072, z: .0500000119}
+      rotation: {x: 0, y: 0, z: .642787635, w: .766044438}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Kofi_Skel_left_knee
+      position: {x: -.754164457, y: 2.90913122e-16, z: 0}
+      rotation: {x: 0, y: -.099833414, z: -0, w: .995004177}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Kofi_Skel_left_ankle
+      position: {x: -1.05199039, y: -8.19483359e-16, z: 0}
+      rotation: {x: -.0613015927, y: .577877879, z: .0435917862, w: .812649369}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Kofi_Skel_left_toe
+      position: {x: -.556844354, y: -3.88578052e-17, z: 2.66453536e-16}
+      rotation: {x: .0613015927, y: -.577877879, z: -.0435917862, w: .812649369}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Kofi_Skel_spine1
+      position: {x: 4.99725356e-05, y: .298794955, z: .0400000103}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Kofi_Skel_spine2
+      position: {x: -0, y: 1.04633355, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Kofi_Skel_neck1
+      position: {x: -0, y: .314072579, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Kofi_Skel_head
+      position: {x: -0, y: .401212931, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Kofi_Skel_headend
+      position: {x: -0, y: 1.10189235, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Kofi_Skel_left_shoulder
+      position: {x: -.399142385, y: .15366666, z: -.100000218}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Kofi_Skel_left_arm
+      position: {x: -.40682441, y: 9.29623212e-16, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Kofi_Skel_left_elbow
+      position: {x: -1.19403839, y: -1.42108549e-15, z: -1.96695325e-07}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Kofi_Skel_left_wrist
+      position: {x: -.695638061, y: 4.99730122e-05, z: 4.14632488e-08}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Kofi_Skel_left_wrist_end
+      position: {x: -.783158183, y: -4.7521953e-10, z: -4.05051566e-07}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Kofi_Skel_right_shoulder
+      position: {x: .399142027, y: .153666481, z: -.100000218}
+      rotation: {x: 1, y: -0, z: 0, w: -6.12323426e-17}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Kofi_Skel_right_arm
+      position: {x: .406825036, y: 0, z: 1.11022304e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Kofi_Skel_right_elbow
+      position: {x: 1.19404304, y: 0, z: 2.00000002e-07}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Kofi_Skel_right_wrist
+      position: {x: .695630014, y: -5.00000024e-05, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Kofi_Skel_right_wrist_end
+      position: {x: .783160031, y: 0, z: 4.00000005e-07}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: .075000003
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  additionalBone: 0
+  userData: 
